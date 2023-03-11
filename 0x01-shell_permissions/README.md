@@ -7,3 +7,4 @@ add multiple permissions
 permissions for everybody
 set permissions for everyone
 John Doe'
+set permission for subdirectories
